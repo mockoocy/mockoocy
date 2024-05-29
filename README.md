@@ -15,10 +15,5 @@
 - [MCocktail](https://github.com/mockoocy/MCocktail) - online drink database / glossary
 - [sudoSolve](https://github.com/mockoocy/sudoSolve-old) - online sudoku game
 
-### What am I working on?
-- Getting a degree in Computer Science and Intelligent Systems from AGH UST, Cracow.
-- Rewriting sudoSolve with [T3Stack](https://create.t3.gg/)
-- Board recognizer for sudoSolve
-- Reading [Category theory for programmers](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 
 Have a nice day!
